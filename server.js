@@ -1,6 +1,6 @@
 var http = require('http');
 var url = require('url');
-// 2. 요청한 url 중에 Query String 을 객체로 만들기 위해 querystring 모듈 사용
+
 var querystring = require('querystring'); 
 
 var fs = require('fs')
